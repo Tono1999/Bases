@@ -1,7 +1,7 @@
 /*******************************************************************************
-Maestría en Ciencias con Especialidad en Computacion y Matematicas Industriales
-Programacion y Algoritmos I
-Tarea 2 Ejercicio 5
+Programa para cambiar la base de números enteros
+
+By
 Angel Antonio Mendez Hernandez
 ********************************************************************************/
 #include <stdio.h>
